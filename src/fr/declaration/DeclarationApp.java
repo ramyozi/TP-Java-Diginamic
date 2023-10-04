@@ -14,10 +14,9 @@ public class DeclarationApp {
 		String k = "Hello";
 		
 		//avant: String randomString = "Voici le résultat d’un calcul : 1+5=6";
-		String randomString = "Voici le résultat d’un calcul :\n 1+5=6";
+		String randomString = "Voici \u00C3 le résultat d’un calcul :\n 1+5=6";
 		
 		// Affichges
-		
 		
 		System.out.println(randomString);
 
