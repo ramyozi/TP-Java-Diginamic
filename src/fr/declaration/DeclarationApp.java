@@ -13,11 +13,16 @@ public class DeclarationApp {
 		boolean j = false;
 		String k = "Hello";
 		
+		//avant: String randomString = "Voici le résultat d’un calcul : 1+5=6";
+		String randomString = "Voici le résultat d’un calcul :\n 1+5=6";
+		
 		// Affichges
-		System.out.println(k);
-		System.out.println(d);
-		System.out.println(a);
+		
+		
+		System.out.println(randomString);
 
+
+		
 
 	}
 }
